@@ -9,7 +9,7 @@ Within the context of all the other things going on in the broader UI modernizat
 * Create market-based incentives that drive innovation, and 
 * Provide more choices for states in terms of how they invest in technology to meet the goals of the UI program. 
 
-This will include efforts to foster an ecosystem of open and modular solutions enables more flexible and resilient IT systems, while driving efficiencies in software development and acquisition, and creating new opportunities for states and vendors to collaborate on solutions. 
+This will include efforts to foster an ecosystem of open and modular solutions to enable more flexible and resilient IT systems, while driving efficiencies in software development and acquisition, and creating new opportunities for states and vendors to collaborate on solutions. 
 
 # What Do We Mean by Open? 
 * We are open in our way of working with states, vendors, and others who want to contribute to the vision of the Initiative
