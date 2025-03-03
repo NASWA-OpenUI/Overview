@@ -1,25 +1,32 @@
 # About the Initiative
 
-**Background**
+## Background
 
 The way UI systems are typically procured and managed today - as monoliths - makes it difficult for states to adapt systems quickly and leverage emerging technologies. This “all or nothing” paradigm forces States into a choice between maintaining their legacy technology far longer than they would like or embarking on an expensive and lengthy system overhaul. That process often either fails to deliver desired results or delivers short-lived results that require repeating the overhaul process a few years later.
 
-**Initiative Start**
+### Initiative Start
 
+NASWA, in partnership with the U.S. Department of Labor, is collaborating with state workforce agencies and other groups to strengthen the unemployment insurance (UI) system with a focus on how modern technology and digital practices can make state systems more accessible, resilient and secure. 
 
-**About NASWA**
+The current environment of UI system modernization varies by state and the overall cost of change is often the major barrier to program and system enhancement. Simultaneously, the marketplace for software solutions is limited and struggles to meet demand and provide cost-effective, flexible solutions. 
 
-**Vision**
+A coordinated investment is needed for states to fully benefit from modern technology in the UI system. Thanks to the Open UI Initiative, the system will undergo some of the most significant changes since the introduction of mainframe technologies. 
+
+### About NASWA
+
+The National Association of State Workforce Agencies (NASWA) is the national organization representing all 50 state workforce agencies, D.C. and U.S. territories. These agencies deliver training, employment, career, business and wage and hour services, in addition to administering the unemployment insurance, veteran reemployment and labor market information programs. NASWA provides policy expertise, shares promising state practices and promotes state innovation and leadership in workforce development.
+
+## Vision
 
 Our vision is a collaborative community promoting a resilient technology landscape and cost-effective innovation in the marketplace to support timely and accurate UI program administration.  
 
-**Theory of Change**
+## Theory of Change
 
 Openly sharing ideas and evolving our approach with community at its center is the key to reducing implementation risk, developing a thriving ecosystem for all participants, and maximizing innovation in UI technology. We believe this approach will provide more choices for states in terms of how they invest in technology to meet the goals of the UI program. 
 
 In order to make this change happen, our objectives are: 
 
-**Objectives**
+### Objectives
 
 - Define and evolve a standardized modular UI technology framework 
 
@@ -34,7 +41,7 @@ In order to make this change happen, our objectives are:
   Partnering with states and vendors to implement software and products in accordance with the Open UI Framework will help drive positive outcomes and create market-based incentives that drive new innovations. By supporting State implementation and procurement we hope to provide stability in modernization efforts as UI systems adapt to new technologies. 
 
 
-**Values**
+## Values
 1. We believe in advancing the integrity and accuracy of the unemployment insurance system and ensuring on time delivery of unemployment benefits for those who have lost their job through no fault of their own. 
 
 2. We believe the Open UI Initiative must participate in creating a resilient and flexible UI system where states are empowered to quickly adapt to changing policy and technological landscapes. 
