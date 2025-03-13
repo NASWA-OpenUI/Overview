@@ -1,6 +1,83 @@
-# Open UI Initiative Team – Writing, Voice, and Style Guide
---------------
-## General Writing Guidelines
+# Open UI Initiative - Team Writing, Voice, and Style Guide
+
+# Writing about the Open UI Initiative
+
+Always leave a space between “Open” and “UI.” 
+
+Refer to Open UI Initiative team as “we,” not “it.” 
+
+Do not abbreviate the Open UI Initiative as OUI. 
+
+Capitalize specific ‘product’ names but not specific terms. For example: 
+
+- Capitalize ‘Monetary Determination Product Brief” but do not capitalize ‘monetary determination’ or ‘product brief’ when talking about them more generally. 
+
+>We published the Monetary Determination Product Brief last week. 
+>
+>We’re researching monetary determination policies and working on our process for creating product briefs 
+
+## Describing the Open UI Initiative
+*Abridged version*:
+
+- The Open UI Initiative is about creating a blueprint, or framework, of a UI system  
+
+- The framework utilizes a modular design, allowing for parts of the system to be changed or updated  
+
+- Built in collaboration with the UI community of states, vendors, subject matter experts, advocates, and federal partners 
+
+*Unabridged version*:
+
+The Open UI Initiative seeks to create a blueprint, or framework, of an unemployment insurance (UI) system, based on the structure of UI systems across the U.S. We are calling this the Open UI Initiative Framework, and states and vendors can use this framework as a guide to develop their own UI software or to modernize existing systems with the flexibility to fit their policies and workflows.  
+
+The framework will follow a modularized approach, or one where the system is sectioned by key functionalities, allowing for the ability to update, change, or replace parts of the system as needed rather than needing to overhaul the entire system all at once. The framework will describe how the modules will communicate with each other or be interoperable, and how they will communicate with other external systems.  
+
+The Open UI Initiative Framework will be built with the collaboration and input of the UI community of states, vendors, subject matter experts, advocates, and federal partners, and we are committed to maintaining an open and transparent development process, with Initiative materials being kept in an easy to find digital repository. 
+
+## What the Open UI Initiative is not
+
+At this point in time, we are not creating the actual software that users can interact with. The specifications within the framework (the blueprint) will be used to make these by the states/vendors themselves to fit their own workflows. 
+
+## Why is the Open UI Initiative important?
+**Current UI Technology challenges:**
+
+- Limited vendor pool leaves states with few choices around price and design  
+
+- Difficult for new entrants to the market  
+
+- Most vendors own the code for a state's UI system  
+
+- Sporadic, insufficient funding for IT modernization
+
+**Value of the Open UI Initiative**  
+
+- Transparent and easy to find documentation of the Open UI Framework resulting in:  
+
+- Decreased barrier to entry for new vendors, increasing competition and innovation  
+
+- State ownership of code  
+
+- A community of contributors to the keeping the framework up to modern standards  
+
+- Shorter build and implementation timelines since no need to start 'from scratch'
+
+## What do we mean by open?
+
+- We are open in our way of working with states, vendors, and others who want to contribute to the vision of the Initiative  
+
+- We aim to open the UI technology marketplace to new ideas, vendors, and approaches  
+
+- We see value and opportunity in open source software and communities 
+
+## Where can people find more information? 
+
+Visit the [Open UI Initiative website](https://www.naswa.org/open-ui-initiative) or reach out to the Open UI Initiative team at openui@naswa.org.  
+
+***Feel free to copy and paste this text directly to use in emails and presentations!***
+
+
+
+
+# General Writing Guidelines
 
 Some guidelines to consider when writing for NASWA and the Open UI Initiative are to: 
 
@@ -10,7 +87,7 @@ Some guidelines to consider when writing for NASWA and the Open UI Initiative ar
  
 - Be Welcoming: Feedback should always be welcomed from our stakeholders and anyone interested/invested in our work. Be open to different points of view in the pursuit of delivering the best possible content.
 
-# Voice
+## Voice
 
 NASWA’s “Voice” should reflect our values, conveying that we are experienced, compassionate partners. Voice should remain consistent regardless of the audience or the format. 
 
@@ -18,7 +95,7 @@ NASWA’s “Voice” should reflect our values, conveying that we are experienc
 
 - Be respectful: Acknowledge all the ongoing hard work by states, the federal government, advocates, employers and claimants. 
 
-# Tone
+## Tone
 
 While NASWA’s voice remains consistent across different formats and audiences, “tone” can adapt to each situation and audience. For example, tone will differ for a conference presentation versus a board presentation. In general, NASWA’s tone is *professional but approachable*.  
 
@@ -26,7 +103,7 @@ A ‘professional but approachable’ tone is direct, confident and thorough whi
 
 NASWA’s audiences include workforce professionals in a variety of roles. Content should be understood by all due to the wide variety of people our work could impact. 
 
-## Writing Style Tips
+# Writing Style Tips
 
 **Write for all readers.** While NASWA’s primary stakeholder is its members, the content may be read by a wide audience, ranging from employers to claimants. NASWA’s work may gather the interest of those who are unfamiliar with the nuances yet still invested in the outcomes of what we do.  
 
@@ -36,7 +113,7 @@ While some of NASWA’s content will be very technical in nature, default to usi
 
 **Be concise and specific.** Use short words and sentences and avoid unnecessary phrases (e.g., ‘in order to’ vs. ‘to’). Avoid using adverbs unless required for clarity (e.g., 'very difficult’ vs. ‘difficult’). Avoid vague language or clarify phrases that might have other meanings in different contexts, such as UI (unemployment insurance versus user interface).  
 
-# Active Voice
+## Active Voice
 
 Use active voice and avoid passive voice, if possible. 
 
