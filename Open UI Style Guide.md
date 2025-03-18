@@ -14,7 +14,9 @@ Capitalize specific ‘product’ names but not specific terms. For example:
 
 >We published the Monetary Determination Product Brief last week. 
 >
->We’re researching monetary determination policies and working on our process for creating product briefs 
+>We published the Monetary Determination Product Spec last week. 
+>
+>We’re researching monetary determination policies and working on our process for creating product specs
 
 ## Describing the Open UI Initiative
 *Abridged version*:
