@@ -10,7 +10,7 @@ Do not abbreviate the Open UI Initiative as OUI.
 
 Capitalize specific ‘product’ names but not specific terms. For example: 
 
-- Capitalize ‘Monetary Determination Product Brief” but do not capitalize ‘monetary determination’ or ‘product brief’ when talking about them more generally. 
+- Capitalize ‘Monetary Determination Product Spec” but do not capitalize ‘monetary determination’ or ‘product spec’ when talking about them more generally.
 
 >We published the Monetary Determination Product Brief last week. 
 >
