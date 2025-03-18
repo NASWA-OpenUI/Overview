@@ -2,7 +2,7 @@
 
 ## Background
 
-The way UI systems are typically procured and managed today - as monoliths - makes it difficult for states to adapt systems quickly and leverage emerging technologies. This “all or nothing” paradigm forces States into a choice between maintaining their legacy technology far longer than they would like or embarking on an expensive and lengthy system overhaul. That process often either fails to deliver desired results or delivers short-lived results that require repeating the overhaul process a few years later.
+The way UI systems are typically procured and managed today - as monoliths - makes it difficult for states to adapt systems quickly and leverage emerging technologies. This “all or nothing” paradigm forces states into a choice between maintaining their legacy technology far longer than they would like or embarking on an expensive and lengthy system overhaul. That process often either fails to deliver desired results or delivers short-lived results that require repeating the overhaul process a few years later.
 
 ### Initiative Start
 
@@ -38,7 +38,7 @@ In order to make this change happen, our objectives are:
 
 - Facilitate adoption of the Open UI Framework 
 
-  Partnering with states and vendors to implement software and products in accordance with the Open UI Framework will help drive positive outcomes and create market-based incentives that drive new innovations. By supporting State implementation and procurement we hope to provide stability in modernization efforts as UI systems adapt to new technologies. 
+  Partnering with states and vendors to implement software and products in accordance with the Open UI Framework will help drive positive outcomes and create market-based incentives that drive new innovations. By supporting state implementation and procurement we hope to provide stability in modernization efforts as UI systems adapt to new technologies. 
 
 
 ## Values
