@@ -10,11 +10,11 @@ Do not abbreviate the Open UI Initiative as OUI.
 
 Capitalize specific ‘product’ names but not specific terms.
 
-Capitalize ‘Monetary Determination Product Spec' but do not capitalize ‘monetary determination’ or ‘product spec’ when talking about them more generally.
+Capitalize ‘Monetary Determination Product Spec' but do not capitalize ‘monetary determination’ or ‘product spec’ when talking about them more generally. For example:
 
-- "We published the Monetary Determination Product Spec last week."
+- We published the Monetary Determination Product Spec last week.
 
-- "We’re researching monetary determination policies and working on our process for creating product specs."
+- We’re researching monetary determination policies and working on our process for creating product specs.
 
 ### Describing the Open UI Initiative
 *Unabridged version*:
@@ -124,7 +124,6 @@ Example:
 ✅The user logged into the account. 
 
 ❌The account was logged into by the user. 
-
  
 
 Words such as 'was' and 'by' are common in sentences written in passive voice and can be good to scan for in your document when checking for active vs. passive voice. 
