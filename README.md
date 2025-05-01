@@ -64,7 +64,7 @@ The National Association of State Workforce Agencies (NASWA) is the national org
 ### Overview Repository
 The purpose of this repository is to introduce the community to the Open UI Initiative and explain its constituent parts. This repository is openly available to anyone.
 
-Here you’ll find top-level information on the Open UI Initiative and Open UI Framework, answers to [frequently asked questions](url), our [Code of Conduct](url) and some beginner tips on how to use GitHub.
+Here you’ll find top-level information on the Open UI Initiative and Open UI Framework, answers to frequently asked questions, our [Code of Conduct](CODE_OF_CONDUCT.md) and some beginner tips on how to use GitHub.
 
 ### Framework Repository
 The purpose of this repository is to host the Open UI Framework, define the modules within it, and how a standardized data schema supports those modules. We will evolve the Framework over time with community support whether that is changing module boundaries, adapting interactions between modules, or optimizing a module’s outputs for new standards and technologies.
@@ -79,14 +79,14 @@ This repository is currently available by invitation only. We will soon by expan
 
 One of the objectives of the Open Unemployment Insurance (UI) Initiative is to define and evolve a standardized modular UI technology framework. We anticipate the Open UI Framework will become the standard topography of UI systems throughout the field. To learn more about the initiative, please see our About the Initiative page. 
 
-The Open UI Framework defines key groups of functionalities or system boundaries as “modules.” The complete [Open UI Module Set ](url) is the minimum set of modules needed to fully support the administration of UI. For each of these modules, it specifies data and interface standards for interacting with the rest of a UI system. 
+The Open UI Framework defines key groups of functionalities or system boundaries as “modules.” The complete [Open UI Module Set ](https://github.com/NASWA-OpenUI/Overview/blob/72d3a056746146a854475936787e150923499c58/Open%20UI%20Initiative%20Module%20Set.md) is the minimum set of modules needed to fully support the administration of UI. For each of these modules, it specifies data and interface standards for interacting with the rest of a UI system. 
 
 This document discusses the Open UI Framework, how modules are defined within it, and how a standardized data schema supports those modules. With input from the Open UI Community, we will evolve the Open UI Framework over time, whether that is changing module boundaries, adapting interactions between modules, or optimizing a module’s outputs for new standards and technologies.   
 
 ### Description 
 
 The Open UI Framework breaks down into three main bodies of work: 
-* The [**Open UI Module Set**](url) enumerates the list of modules and describes each of them at a high level. 
+* The [**Open UI Module Set**](https://github.com/NASWA-OpenUI/Overview/blob/72d3a056746146a854475936787e150923499c58/Open%20UI%20Initiative%20Module%20Set.md) enumerates the list of modules and describes each of them at a high level. 
 * An **Open UI Module Specification** defines how a given module will interact within a UI system, whether that is from one Open UI Module to another or from an Open UI Module to part of an existing UI system. 
 * An **Open UI Data Schema** (forthcoming) to support the standardized interactions specified for each module. 
 
@@ -120,7 +120,7 @@ Where appropriate the Framework will also standardize field semantics as relates
 ## How to Support the Open UI Initiative
 Find more information and updates on the Open UI Initiative at our [website](https://www.naswa.org/open-ui-initiative) or email us at [openui@naswa.org](mailto:openui@naswa.org).
 
-If you have specific feedback to provide about this Overview Repository, please see instructions for how to submit an Issue in our Contributing Guide.
+If you have specific feedback to provide about this Overview Repository, please see instructions for how to submit an Issue in our [Contributing Guide](CONTRIBUTING.md).
 
 <br>
 
