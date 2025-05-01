@@ -87,7 +87,7 @@ This document discusses the Open UI Framework, how modules are defined within it
 
 The Open UI Framework breaks down into three main bodies of work: 
 * The [**Open UI Module Set**](https://github.com/NASWA-OpenUI/Overview/blob/72d3a056746146a854475936787e150923499c58/Open%20UI%20Initiative%20Module%20Set.md) enumerates the list of modules and describes each of them at a high level. 
-* An **Open UI Module Specification** defines how a given module will interact within a UI system, whether that is from one Open UI Module to another or from an Open UI Module to part of an existing UI system. 
+* An **Open UI Module Specification** defines how a given module will interact within a UI system, whether that is from one Open UI Module to another or from an Open UI Module to part of an existing UI system. This information is availble in the [Open UI Framework repository](#framework-repository)
 * An **Open UI Data Schema** (forthcoming) to support the standardized interactions specified for each module. 
 
 ### More details: Open UI Module Specifications 
