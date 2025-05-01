@@ -8,10 +8,10 @@ The Open UI Initiative will change how we create and purchase technology. It inv
 
 1. [About the Open UI Initiative](#about-the-open-ui-initiative)
 2. [Open UI GitHub Repositories](#open-ui-github-repositories)
-3. [What is the Open UI Framework?](url)
-4. [How to Support the Open UI Initiative](url)
-5. [FAQs](url)
-6. [GitHub Tips for Beginners](url)
+3. [What is the Open UI Framework?](#what-is-the-open-ui-framework)
+4. [How to Support the Open UI Initiative](#how-to-support-the-open-ui-initiative)
+5. [FAQs](#faqs)
+6. [GitHub Tips for Beginners](#github-tips-for-beginners)
 
 <br>
 
