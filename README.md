@@ -6,8 +6,8 @@ The Open UI Initiative will change how we create and purchase technology. It inv
 
 ## Table of Contents
 
-1. [About the Open UI Initiative](url)
-2. [Open UI GitHub Repositories](url)
+1. [About the Open UI Initiative](#about-the-open-ui-initiative)
+2. [Open UI GitHub Repositories](#open-ui-github-repositories)
 3. [What is the Open UI Framework?](url)
 4. [How to Support the Open UI Initiative](url)
 5. [FAQs](url)
