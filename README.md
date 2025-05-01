@@ -1,4 +1,4 @@
-# README
+# Open UI Initiative - Overview Repository
 
 NASWA, in partnership with the U.S. Department of Labor, is collaborating with state workforce agencies and other groups to strengthen the unemployment insurance (UI) system with a focus on how modern technology and digital practices can make state systems more accessible, resilient and secure.
 
