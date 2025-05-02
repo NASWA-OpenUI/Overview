@@ -1,6 +1,10 @@
 # Contributing Guide
 
-## Submitting Feedback
+If you additional questions or are interested in learning about more ways to work with the Open UI Initiative, please email us at [openui@naswa.org](mailto:openui@naswa.org). You can also visit our [website](https://www.naswa.org/open-ui-initiative) for more information about the Open UI Initiative.
+
+</br>
+
+## Submitting Feedback 
 If you would like to submit a comment or feedback on the contents of the Overview repository, please submit an **Issue** by following the instructions below:
 - Click the “Issues” tab at the top of the repository page 
 - Click the green 'New Issue' button.
@@ -48,7 +52,6 @@ To help us address your feedback efficiently:
 ### Additional Help 
 If you encounter any difficulties with this process, please contact openui@naswa.org for assistance. 
 
-</br>
 
-## Working with the Open UI Initiative
-If you additional questions or are interested in learning about more ways to work with the Open UI Initiative, please email us at [openui@naswa.org](mailto:openui@naswa.org). You can also visit our [website](https://www.naswa.org/open-ui-initiative) for more information about the Open UI Initiative.
+
+
