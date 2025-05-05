@@ -2,7 +2,7 @@
 
 ## Status: Work in Progress 
 
-From research to date, this documents what we believe the Open UI Module Set ought to include. We know this will be an iterative process, including getting feedback on this document directly as well as validating our assumptions while we dig into modules’ technical specifications and/or begin prototyping or pilot testing. 
+Based on our research to date, this document outlines what we believe the Open UI Module Set should include. We recognize this will be an iterative process—refining our approach through direct feedback on this document, validating assumptions as we explore technical specifications, and adjusting as we move into prototyping or pilot testing.
 
 ## Background 
 
@@ -15,20 +15,20 @@ The complete Open UI Module Set is the minimum set of bounded functionalities (m
 ## Considerations for Defining Open UI Modules 
 
 As we define Open UI Modules, there are many parts of administering UI programs that the specifications will need to consider, such as: 
-* Issue detection: this is something that can occur nearly anywhere in the system and will trigger fact-finding and decision-making processes where appropriate.  
+* Issue Detection: This can occur at nearly any point in the system and typically initiates fact-finding and decision-making processes when necessary.
 * Federal reviews and corresponding quality checks 
 * Workflow Engine: More research is needed to better define the relationship between functionality within modules and overall workflows, both automatic and manual, that keep a UI system running.  
 * User Interfaces: While we know that the Open UI Framework is not going to define or specify user interfaces, there is more that we need to do in terms of understanding and documenting the relationship between the functionality within modules, the users involved in that functionality, and the way that those users interact with that functionality. 
 
 ## The List of Open UI Modules 
 
-### High confidence: Modules that Open UI has confidence exist with well-understood boundaries  
+### High confidence: Modules that Open UI has confidence are necessary with clearly defined, well-understood boundaries
 
 **Account Management:** The Account Management module includes functionality for user account creation and maintenance. This includes self-service and staff-assisted account management for claimants and employers and administrative user access management for staff user accounts. This includes managing users' profiles. 
 
 **Initial Claim:** This module supports the collection of comprehensive information to file an initial unemployment insurance claim for standard Unemployment Compensation (UC), UC for Federal Employees (UCFE), and UC for Ex-Servicemembers. The data required includes claimant's employment history, current ability and availability to work, and reasons for job separation at the time of filing. The Initial Claims Module is the source of truth for the claim record.  
 
-**Federal Reporting Module:** The Federal Reporting module includes the functionality to generate and manage Federally required reports to USDOL/ETA required reports. 
+**Federal Reporting Module:** This module includes functionality to generate and manage all reports required byt the U.S. Department of Labor (USDOL/ETA). 
 
 **Monetary Determination:** The Monetary Determination module enables a set of calculations and decisions to assess monetary eligibility, including the establishment of a benefit year, weekly benefit amount, and maximum payable amount. This module includes determining potential benefit liabilities for each employer, including noncharging and payment reductions.  
 
@@ -52,17 +52,17 @@ As we define Open UI Modules, there are many parts of administering UI programs 
 
 **Document Management:** The Document Management module includes functionality related to the scanning, upload, storage, and retrieval of documents by claimants, employers, and staff. It is likely to be a commoditized tools with inputs coming from the Open UI Framework. 
 
-**Federal Certification:** The Federal Certification module includes the functionality for staff to process and create FUTA identification files, and process the FUTA Update file, as well as self-service and staff-assisted requests for FUTA 940 Re-Certifications. 
+**Federal Certification:** The Federal Certification module includes the functionality for staff to process and create Federal Unemployment Tax Act (FUTA) identification files, and process the FUTA Update file, as well as self-service and staff-assisted requests for FUTA 940 Re-Certifications. 
 
 **Liability Type:** The Liability Type module includes functionality to gather business registration information to determine the employer’s liability to pay unemployment insurance taxes/contributions. Also included is the functionality to update employer account information, including account closure and business transfers. 
 
-**Manage Employer Receivables and delinquencies:** This module includes functionality to manage assessments, determine collectible receivables, manage delinquencies, interest, penalties adjustments, bankruptcies, and multiple available collections methods. 
+**Manage Employer Receivables and Delinquencies:** This module includes functionality to manage assessments, determine collectible receivables, manage delinquencies, interest, penalties adjustments, bankruptcies, and multiple available collections methods. 
 
 **Performance and Quality Activities:** There are many USDOL/ETA mandated audits (e.g., BAM, BTQ, and Appeals)  as well as internal audits for performance related activities. It also needs to account for the functionality of the Tax Performance System (TPS) and SUTA Dumping activities. Some may be individual modules and some may be processes that the modules support.  
 
-**State-specific reporting module:** State-specific operations reports may be a separate module or included in the overall Reporting Module; more research is needed on the similarities across states. 
+**State-specific Reporting Module:** State-specific operations reports may be a separate module or included in the overall Reporting Module; more research is needed on the similarities across states. 
 
-**Tax Audit and investigation Activities:** The Manage Audit / Investigation Activities module includes functionality pertinent to the management, assignment, and completion of tax field audit activities for multiple audit and investigation types. 
+**Tax Audit and Investigation Activities:** The Manage Audit / Investigation Activities module includes functionality pertinent to the management, assignment, and completion of tax field audit activities for multiple audit and investigation types. 
 
 **Tax Integrity/Fraud:** The Integrity/Fraud module includes functionality to prevent, detect, and manage such things as misclassification, fraudulent accounts, unreported wages, and SUTA dumping activities, through crossmatching other means. 
 
