@@ -1,6 +1,6 @@
 # Contributing Guide
 
-If you additional questions or are interested in learning about more ways to work with the Open UI Initiative, please email us at [openui@naswa.org](mailto:openui@naswa.org). You can also visit our [website](https://www.naswa.org/open-ui-initiative) for more information about the Open UI Initiative.
+If you have additional questions or are interested in learning about more ways to work with the Open UI Initiative, please email us at [openui@naswa.org](mailto:openui@naswa.org). You can also visit our [website](https://www.naswa.org/open-ui-initiative) for more information about the Open UI Initiative.
 
 </br>
 
