@@ -69,7 +69,7 @@ Here you’ll find top-level information on the Open UI Initiative and Open UI F
 ### Framework Repository
 The purpose of this repository is to host the Open UI Framework, define the modules within it, and how a standardized data schema supports those modules. We will evolve the Framework over time with community support whether that is changing module boundaries, adapting interactions between modules, or optimizing a module’s outputs for new standards and technologies.
 
-This repository is currently available by invitation only. We will soon by expanding access to this repo via an access request form, where additional members of the community will be to request to be able to view, comment, and contribute to content within the repository. Please check back soon for more information.
+This repository is currently accessible by invitation only. We will soon expand access through an access request form, allowing additional community members to request permission to view, comment, and contribute to the content. Please check back for more details soon.
 
 <br>
 
@@ -96,16 +96,16 @@ The Open UI Framework breaks down into three main bodies of work:
 
 The Open UI Framework is intended to capture UI system boundaries as individual module specifications. To do this, an Open UI Module specification will define:  
 * Standardized format for data inputs and outputs; the specs will provide one or more examples in e.g., JSON or XML. 
-* API specifications for how to trigger functionality within the module, including communication protocol and error handling.  
+* Application Programing Interface (API) specifications for how to trigger functionality within the module, including communication protocol and error handling.  
 * Standardized data types, requests, and responses that the module will expose to the rest of the system. Some amount of data validation may also be standardized. 
 * Configurable items as needed (whether that is defining certain variables to be set or enabling certain capabilities to be toggled on or off.) 
 
 #### Module Specifications: What’s NOT in scope?  
-The Open UI Framework is not meant to define specific implementation details as to how to achieve certain functionality within a module. As such, an Open UI Module specification will NOT:  
-* Define the business rules for how to achieve the functionality within the module as these are specific to each state’s UI program 
-* Define the interfaces for how a module implementation would connect with external services to achieve the functionality within the module, though we will identify these where possible (e.g., how a module might use ICON to get the outputs it needs) 
-* Define the user interfaces for how the module functionality is achieved in an implementation as these will be state dependent and incorporate things like state-specific design patterns, branding, etc.  
-* Define security/authentication requirements because these are specific to each state’s UI program and enterprise IT needs. 
+The Open UI Framework is not intended to define specific implementation details for achieving functionality within a module. Therefore, an Open UI Module specification will **NOT**:  
+* Define  business rules for achieving functionality within the module, as these are specific to each state’s UI program 
+* Define the interfaces for how a module implementation would connect with external services to achieve the functionality within the module, although we will identify these where possible (e.g., how a module might use ICON to recieve necessary outputs) 
+* Define the user interfaces for how the module functionality is achieved in an implementation as these will be state dependent and incorporate state-specific design patterns, branding, and other elements. 
+* Define security/authentication requirements as these are unique to each state’s UI program and enterprise IT needs. 
 
 ### More details: Open UI Data Schema 
 
