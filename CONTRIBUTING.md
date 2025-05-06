@@ -8,7 +8,8 @@ If you have additional questions or are interested in learning about more ways t
 
 </br>
 
-# How to Submit Feedback via an Issue
+## Submitting Feedback
+If you would like to submit a comment or feedback on the contents of the Overview repository, please submit an Issue by following the instructions below:
 
 1.  **Open the Issues tab**
 
@@ -39,13 +40,13 @@ If you have additional questions or are interested in learning about more ways t
 
 <img src="./media/Image5.jpg" style="width:6.53125in;height:1.04722in"/>
 
-<p align="center"><b><i>Figure 4: Create New Issue Button</i></b></p>
+<p align="center"><b><i>Figure 3: Create New Issue Button</i></b></p>
 
 - You’ll be redirected to a GitHub page with a summary of your issue
 
  <img src="./media/Image6.jpg" style="width:6.5in;height:3.60139in"/>
 
-<p align="center"><b><i>Figure 5: Issue Confirmation Screen</i></b></p>
+<p align="center"><b><i>Figure 4: Issue Confirmation Screen</i></b></p>
 
 - This confirms that your issue has been successfully opened. It is
   informational and no further action is needed at this stage.
@@ -53,9 +54,9 @@ If you have additional questions or are interested in learning about more ways t
 - You will also receive a confirmation email with a link to review the
   issue and add further comments throughout the resolution process.
 
-# Managing Your Issue
+### Managing Your Issue
 
-## Email Notifications
+#### Email Notifications
 
 GitHub automatically sends notifications to your email address when:
 
@@ -65,7 +66,7 @@ GitHub automatically sends notifications to your email address when:
 
 - The status of your issue changes
 
-## Responding to Updates
+#### Responding to Updates
 
 You can manage your issue entirely through email:
 
@@ -76,7 +77,7 @@ You can manage your issue entirely through email:
 
 - You don’t need to log back into GitHub to continue the conversation
 
-## Adding More Information
+#### Adding More Information
 
 If you need to provide additional details after submitting:
 
@@ -86,7 +87,7 @@ If you need to provide additional details after submitting:
 
 - You can attach files if needed
 
-# What Happens After Submission
+### What Happens After Submission
 
 After you submit an issue:
 
@@ -99,7 +100,7 @@ After you submit an issue:
 4.  **Resolution**: You’ll receive a final response explaining the
     outcome
 
-# Best Practices for Effective Feedback
+### Best Practices for Effective Feedback
 
 To help us address your feedback efficiently:
 
@@ -113,7 +114,7 @@ To help us address your feedback efficiently:
 
 - **Be concise**: Focus on key information
 
-# Additional Help
+### Additional Help
 
 If you encounter any difficulties with this process, please contact
 <openui@naswa.org> for assistance.
