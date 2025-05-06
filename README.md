@@ -160,5 +160,5 @@ If you are new to using GitHub, we recommend checking out the following resource
 
 - [About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) - Introductory information on GitHub and how it works
 - [Beginner’s guide to GitHub repositories](https://github.blog/developer-skills/github/beginners-guide-to-github-repositories-how-to-create-your-first-repo/) - A resource from GitHub that describes what a repository is, how to interact with them, and what the most commonly used features are. Is mostly geared towards creating your own repository but contains helpful introductory information for those who plan to only view or interact with other organizations' repositories
-- [Open UI Initiative Contributing Guidelines](url) - Information on how to submit feedback on content in this repository as well as a list of GitHub terms and definitions
+- [Open UI Initiative Contributing Guidelines]((https://github.com/NASWA-OpenUI/Overview/blob/033ba65b3362babd24d8252efbed969bea8e2b90/CONTRIBUTING.md) - Information on how to submit feedback on content in this repository as well as a list of GitHub terms and definitions
 
