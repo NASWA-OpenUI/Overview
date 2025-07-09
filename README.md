@@ -23,7 +23,7 @@ The way UI systems are typically procured and managed today - as monoliths - mak
 
 ### Initiative Start
 
-NASWA, in partnership with the U.S. Department of Labor, is collaborating with state workforce agencies and other groups to strengthen the unemployment insurance (UI) system with a focus on how modern technology and digital practices can make state systems more accessible, resilient and secure. 
+NASWA is collaborating with state workforce agencies and other groups to strengthen the unemployment insurance (UI) system with a focus on how modern technology and digital practices can make state systems more accessible, resilient and secure. 
 
 The current environment of UI system modernization varies by state and the overall cost of change is often the major barrier to program and system enhancement. Simultaneously, the marketplace for software solutions is limited and struggles to meet demand and provide cost-effective, flexible solutions. 
 
@@ -137,7 +137,7 @@ The framework will follow a modularized approach, or one where the system is sec
 Visit the [Open UI Initiative website](https://www.naswa.org/open-ui-initiative). There you’ll find links to helpful resources and more information about the Open UI Initiative. If you have more questions about the Open UI Initiative, please send an email to [openui@naswa.org](mailto:openui@naswa.org) and include your question and your contact information.
 
 ### How is the Open UI Initiative funded?
-The Open UI Initiative is currently funded by a grant from the US Department of Labor for a term of three years that ends September 30, 2026. The Initiative operates out of the[ National Association of State Workforce Agencies (NASWA)](https://www.naswa.org/?check_logged_in=1) alongside the[ Unemployment Insurance Information Technology Support Center (UI ITSC)](https://www.naswa.org/services/uiitsc) at NASWA.
+The Open UI Initiative was initially funded by a grant from the US Department of Labor that was canceled in June 2025 as part of the department's review of all grants issued under the American Rescue Plan Act. As of July 2025, NASWA remains committed to furthering the goals and potential of Open UI while continuing to search for viable funding opportunities. 
 
 ### Will the Open UI Initiative include working code?
 As of March 2025, the Initiative is not seeking to create, procure, or otherwise develop working code for the modules. As the Initiative evolves this may be a part of the roadmap. To keep up to date on the latest developments in the Open UI Initiative please visit our website.
